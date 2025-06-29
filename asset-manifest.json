@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portafolio-def/static/css/main.f59fd524.css",
+    "main.js": "/Portafolio-def/static/js/main.0b751fb8.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portafolio-def/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portafolio-def/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/Portafolio-def/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/Portafolio-def/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/Portafolio-def/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/Portafolio-def/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/Portafolio-def/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/chatify.png": "/Portafolio-def/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/revicons.eot": "/Portafolio-def/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Portafolio-def/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Portafolio-def/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/pre.svg": "/Portafolio-def/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portafolio-def/index.html",
+    "main.f59fd524.css.map": "/Portafolio-def/static/css/main.f59fd524.css.map",
+    "main.0b751fb8.js.map": "/Portafolio-def/static/js/main.0b751fb8.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portafolio-def/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portafolio-def/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f59fd524.css",
+    "static/js/main.0b751fb8.js"
+  ]
+}
